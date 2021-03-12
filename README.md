@@ -1,4 +1,4 @@
-# D-tection-des-marches-d-un-escalier-sur-une-image
+# Detection des marches d'un escalier sur une image
 
 L'objectif de ce projet consiste à établir et mettre en oeuvre un algorithme permettant
 l'extraction et le calcul du nombre de marches dans les images contenant un escalier.
