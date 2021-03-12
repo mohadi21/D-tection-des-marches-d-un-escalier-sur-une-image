@@ -1,5 +1,8 @@
 # D-tection-des-marches-d-un-escalier-sur-une-image
 
+L'objectif de ce projet consiste à établir et mettre en oeuvre un algorithme permettant
+l'extraction et le calcul du nombre de marches dans les images contenant un escalier.
+
 L'étape de calcul du nombre d'étapes comporte deux phases principales. La première
 consiste à prétraiter l'image pour détecter les bords des marches. La deuxième étape vise à localiser
 et étudier les contours sur l'image résultant de la première étape à l'aide de critères géométriques
